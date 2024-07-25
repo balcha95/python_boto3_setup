@@ -1,5 +1,9 @@
 # Setup Guide
 
+## login 
+chmod 400 "py.pem"
+ssh -i "py.pem" ubuntu@18.208.190.58
+
 ## AWS CLI Installation
 
 To install the AWS CLI, follow the instructions in the official AWS documentation:
